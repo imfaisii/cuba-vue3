@@ -1,0 +1,16 @@
+/* theme fonts */
+
+@import url("https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i&amp;display=swaphttps://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900&amp;display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900&amp;display=swap");
+
+/* theme styles */
+
+@import "../template/assets/css/font-awesome.css";
+@import "../template/assets/css/vendors/icofont.css";
+@import "../template/assets/css/vendors/themify.css";
+@import "../template/assets/css/vendors/flag-icon.css";
+@import "../template/assets/css/vendors/feather-icon.css";
+@import "../template/assets/css/vendors/bootstrap.css";
+@import "../template/assets/css/style.css";
+@import "../template/assets/css/color-1.css";
+@import "../template/assets/css/responsive.css";
