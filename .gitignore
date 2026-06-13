@@ -15,6 +15,3 @@ yarn-error.log
 /.idea
 /.vscode
 /resources/template
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
